@@ -1,0 +1,20 @@
+[project]
+name = "graduate"
+version = "0.1.0"
+description = "Course catalog parser and planner"
+authors = [{ name = "Mason Hawver", email = "mason.hawver@gmail.com" }]
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "pandas",
+    "tqdm",
+    "python-dotenv",
+    "openai",
+    "graphviz",
+]
+
+[tool.setuptools]
+packages = ["graduate"]
+
+[tool.setuptools.package-data]
+"graduate.assets.isu" = ["raw.txt", "catalog.csv"]

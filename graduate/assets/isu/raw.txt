@@ -1,0 +1,978 @@
+---------------------------------
+Extra
+---------------------------------
+
+ECON 1010: Principles of Microeconomics
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Resource allocation, opportunity cost, comparative and absolute advantage. Supply and demand. Marginal analysis. Theories of production and consumption, pricing, and the market system. Perfect and imperfect competition and strategic behavior. Factor markets. Present discounted value. (Typically Offered: Fall, Spring, Summer)
+
+ECON 1020: Principles of Macroeconomics
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Measurement of macro variables and general macro identities. Classical models of full employment. Production and growth. Savings and investment. Employment and unemployment. Money, inflation, and price levels. Operation of the U.S. banking system. Fiscal and monetary policy. Elements of international finance. ECON 1010 recommended. (Typically Offered: Fall, Spring, Summer)
+
+
+HIST 2010: Introduction to Western Civilization I
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Western civilization from ancient Mediterranean world to 1500. Social and cultural developments; economic and political ideas and institutions; problems of historical change and continuity. Meets International Perspectives Requirement. (Typically Offered: Fall)
+
+
+ENGR 1010: Engineering Orientation
+
+Credits: Required. Contact Hours: Lecture 1.
+
+Introduction to the College of Engineering and the engineering profession. Information concerning university and college policies, procedures, and resources. Undeclared sections: Considerations in choosing an engineering curriculum. Opportunities to interact with departments. Declared sections: Introduction to major-specific topics. Offered on a satisfactory-fail basis only. (Typically Offered: Fall, Spring)
+
+CHEM 1670: General Chemistry for Engineering Students
+
+Credits: 4. Contact Hours: Lecture 3, Discussion 1.
+
+Prereq: College of Engineering Students OR Open Option Undergraduate Undeclared Students
+Principles of chemistry and properties of matter explained in terms of modern chemical theory with emphasis on topics of general interest to the engineer. MATH 1400 or 2 years of high school algebra and 1 year of high school geometry and CHEM 0500 or 1 year of high school chemistry necessary. Graduation Restriction: Only one of CHEM 1630, 1670, 1770, or 2010 may count toward graduation. (Typically Offered: Fall, Spring)
+
+
+MATE 2730: Principles of Materials Science and Engineering
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: (CHEM 1670 or CHEM 1770); MATH 1650
+Introduction to the structure and properties of engineering materials. Structure of crystalline solids and imperfections. Atomic diffusion. Mechanical properties and failure of ductile and brittle materials. Dislocations and strengthening mechanisms. Phase equilibria, phase transformations, microstructure development, and heat treatment principles of common metallurgical systems including steels and aluminum alloys. Structure and mechanical properties of ceramic, polymeric and composite materials. Thermal properties of materials. Corrosion and degradation. Basic electronic properties of materials. Engineering applications. Graduation Restriction: Only one of MATE 2150, MATE 2730, or MATE 3920 may count toward graduation. (Typically Offered: Fall, Spring)
+
+STAT 3050: Engineering Statistics
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: MATH 1650
+Statistics for engineering problem solving. Principles of engineering data collection; descriptive statistics; elementary probability distributions; principles of experimentation; confidence intervals and significance tests; one-, two-, and multi-sample studies; regression analysis; use of statistical software. Graduation Restriction: Credit for both STAT 1050 and STAT 3050 may not be applied toward graduation. (Typically Offered: Fall, Spring, Summer)
+
+
+---------------------------------
+EE
+---------------------------------
+
+EE 4420: Introduction to Circuits and Instruments
+
+Credits: 2. Contact Hours: Lecture 1.5, Laboratory 1.
+
+Prereq: MATH 2670; PHYS 2320; PHYS 2320L
+Half-semester course. Basic circuit analysis using network theorems with time domain and Laplace transform techniques for resistive, resistive-inductive, resistive-capacitive, and resistive- inductive-capacitive circuits. Transient circuit behavior. Basic operational amplifiers and applications. Familiarization with common EE instrumentation and demonstration of basic principles. Graduation Restriction: Credit for only 2010 or 4420 may be counted toward graduation; credit FOR 4420 will not count toward graduation for EE or CPRE majors. (Typically Offered: Fall, Spring)
+
+EE 4480: Introduction to AC Circuits and Motors
+
+Credits: 2. Contact Hours: Lecture 1.5, Laboratory 1.
+
+Prereq: Credit or enrollment in EE 4420
+Half-semester course. Basics of DC machines, stepper motors, AC induction motors, and synchronous generators. AC steady state analysis, transformers, and three-phase circuit analysis. Credit For EE 4480 May Not Be Applied Toward A Degree In Either EE Or CPRE. (Typically Offered: Fall, Spring)
+
+
+---------------------------------
+Physics
+---------------------------------
+
+PHYS 2310: Introduction to Classical Physics I
+
+Credits: 4. Contact Hours: Discussion 1, Lecture 3.
+
+Prereq: [MATH 1650 OR (MATH 1630X AND 1640X)] AND Credit or concurrent enrollment in MATH 1660
+Tailored toward engineering majors (For a broader set of physics topics consider PHYS 2410). 3 hours of lecture each week plus 1 recitation each week. Review of basic vector manipulation, elementary mechanics including kinematics and dynamics of particles, work and energy, linear andangular momentum, conservation laws, rotational motion, oscillations, gravitation. . (Typically Offered: Fall, Spring, Summer)
+
+PHYS 2310H: Introduction to Classical Physics I: Honors
+
+Credits: 4. Contact Hours: Lecture 3, Discussion 1.
+
+Prereq: [MATH 1650 OR (MATH 1630X AND 1640X)]; Credit or concurrent enrollment in MATH 1660; Membership in the University Honors Program
+Tailored toward engineering majors (For a broader set of physics topics consider PHYS 2410). 3 hours of lecture each week plus 1 recitation each week. Review of basic vector manipulation, elementary mechanics including kinematics and dynamics of particles, work and energy, linear andangular momentum, conservation laws, rotational motion, oscillations, gravitation. (Typically Offered: Fall, Spring, Summer)
+
+PHYS 2310L: Introduction to Classical Physics I Laboratory
+
+Credits: 1. Contact Hours: Laboratory 2.
+
+Prereq: MATH 1650 AND (credit or enrollment in MATH 1660) AND (credit or concurrent enrollment in PHYS 2310 or PHYS 2410)
+Laboratory experiments in elementary kinematics, work and energy, conservation laws, and rotational motion. Proficiency in algebra, trigonometry, vector manipulation required. (Typically Offered: Fall, Spring, Summer)
+
+PHYS 2320: Introduction to Classical Physics II
+
+Credits: 4. Contact Hours: Discussion 1, Lecture 3.
+
+Prereq: MATH 1660; PHYS 2310 or PHYS 2410
+3 hours of lecture each week plus 1 recitation each week. Electric forces and fields; Electrical currents; DC circuits; Magnetic forces and fields; LR, LC, LCR circuits; AC circuits. (Typically Offered: Fall, Spring, Summer)
+
+PHYS 2320H: Introduction to Classical Physics II: Honors
+
+Credits: 4. Contact Hours: Lecture 3, Discussion 1.
+
+Prereq: MATH 1660; PHYS 2310 or PHYS 2410; Membership in the University Honors Program
+3 hours of lecture each week plus 1 recitation each week. Electric forces and fields; Electrical currents; DC circuits; Magnetic forces and fields; LR, LC, LCR circuits; AC circuits. (Typically Offered: Fall, Spring)
+
+PHYS 2320L: Introduction to Classical Physics II Laboratory
+
+Credits: 1. Contact Hours: Laboratory 2.
+
+Prereq: MATH 1660 AND (Credit or concurrent enrollment in PHYS 2320 or PHYS 2420)
+Laboratory experiments in fluid dynamics, electric forces and fields, electrical currents, DC circuits, magnetic forces and fields, and wave optics. (Typically Offered: Fall, Spring, Summer)
+
+
+---------------------------------
+Math
+---------------------------------
+
+MATH 1010: Orientation in Mathematics
+
+Credits: 1. Contact Hours: Lecture 1.
+
+A required orientation for all first-year and transfer students in mathematics. Provides information about campus resources and opportunities available to students, assists with transition to the University, and academic planning. Offered on a satisfactory/fail basis only. Offered on a satisfactory-fail basis only. (Typically Offered: Fall)
+
+MATH 1040: Introduction to Probability
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Satisfactory math placement test score (ALEKS 15+)
+Permutations, combinations, probability, expected value, and applications. Satisfactory placement scores can be found at https://math.iastate.edu/academics/undergraduate/aleks/placement/. (Typically Offered: Fall, Spring, Summer)
+
+MATH 1050: Introduction to Mathematical Ideas
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Satisfactory math placement test score (ALEKS 15+)
+Introduction to the use of basic mathematics to solve real-world problems in the areas of voting issues, measuring power in situations where people have different numbers of votes, apportionment, fair division, and elementary game theory. No prior background in politics or history is necessary for this course. Satisfactory placement scores can be found at https://math.iastate.edu/academics/undergraduate/aleks/placement/. (Typically Offered: Fall, Spring, Summer)
+
+MATH 1390: College Algebra Supplement
+
+Credits: 1. Contact Hours: Lecture 1.
+
+Prereq: Satisfactory math placement test score (ALEKS 15+)
+Math concepts to provide supplemental assistance with course topics of MATH 1400. Satisfactory placement scores can be found at https://math.iastate.edu/academics/undergraduate/aleks/placement/. Offered on a satisfactory-fail basis only. (Typically Offered: Fall, Spring)
+
+MATH 1400: College Algebra
+
+Credits: 3. Contact Hours: Lecture 2, Discussion 1.
+
+Prereq: Satisfactory math placement test score (ALEKS, 39+) or (concurrent enrollment in MATH 1390 and ALEKS 15+)
+Coordinate geometry, quadratic and polynomial equations, functions, graphing, rational functions, exponential and logarithmic functions, inverse functions, quadratic inequalities, systems of linear equations. Satisfactory placement scores can be found at https://math.iastate.edu/academics/undergraduate/aleks/placement/Credits earned in MATH 1400 cannot be applied toward graduation by Math majors. (Typically Offered: Fall, Spring, Summer)
+
+MATH 1430: Preparation for Calculus
+
+Credits: 4. Contact Hours: Lecture 2, Discussion 2.
+
+Prereq: Satisfactory performance on placement assessment or MATH 1400
+Preparation for MATH 1600 or MATH 1650. Functions, graphing, basic trigonometry, logarithms, exponentials. Emphasis on co-variational reasoning. Satisfactory placement scores can be found at https://math.iastate.edu/academics/undergraduate/aleks/placement/. Graduation Restriction: Only one of MATH 1430 and MATH 1450 may count toward graduation. (Typically Offered: Fall, Spring)
+
+MATH 1450: Applied Trigonometry
+
+Credits: 3. Contact Hours: Lecture 2, Discussion 1.
+
+Prereq: Satisfactory performance on placement assessment or MATH 1400
+Mathematical ideas regarding the conception of space. General trigonometry, with an emphasis on the calculation of lengths, areas, and angles. The Law of Sines and the Law of Cosines. Polar, cylindrical, and spherical coordinate systems. Conic sections and quadric surfaces. Satisfactory placement scores can be found at https://math.iastate.edu/academics/undergraduate/aleks/placement/. Graduation Restriction: Only one of MATH 1430 and MATH 1450 may count toward graduation. (Typically Offered: Fall, Spring)
+
+MATH 1490: Discrete Mathematics for Business and Social Sciences Supplement
+
+Credits: 1. Contact Hours: Lecture 1.
+
+Prereq: Satisfactory math placement test score (ALEKS 15+)
+Math concepts to provide supplemental assistance with course topics of MATH 1500. Satisfactory placement scores can be found at https://math.iastate.edu/academics/undergraduate/aleks/placement/. Offered on a satisfactory-fail basis only. (Typically Offered: Fall, Spring)
+
+MATH 1500: Discrete Mathematics for Business and Social Sciences
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: ALEKS 39+ OR (Concurrent enrollment in MATH 1490 AND ALEKS 15+)
+Linear equations and inequalities, matrix algebra, linear programming, discrete probability. Satisfactory placement scores can be found at https://math.iastate.edu/academics/undergraduate/aleks/placement/. (Typically Offered: Fall, Spring, Summer)
+
+MATH 1510: Calculus for Business and Social Sciences
+
+Credits: 3. Contact Hours: Lecture 2, Discussion 1.
+
+Prereq: Satisfactory math placement test score (ALEKS, 51+) OR MATH 1400
+Differential calculus, applications to max-min problems, integral calculus and applications. Will not serve as prerequisite for MATH 2650 or MATH 2660. Satisfactory placement scores can be found at https://math.iastate.edu/academics/undergraduate/aleks/placement/. Graduation Restriction: Only one of MATH 1510, MATH 1600, or the sequence MATH 1650-MATH 1660 may be counted towards graduation. Credits Earned In MATH 1510 Cannot Be Applied Toward Graduation By Math Majors. (Typically Offered: Fall, Spring, Summer)
+
+MATH 1600: Survey of Calculus
+
+Credits: 4. Contact Hours: Lecture 4.
+
+Prereq: Satisfactory performance on placement assessment or minimum of C- in (MATH 1400 or MATH 1430)
+Analytic geometry, derivatives and integrals of elementary functions, simple differential equations, and applications. Will not serve as a prerequisite for MATH 2650 or MATH 2660. Satisfactory placement scores can be found at https://math.iastate.edu/academics/undergraduate/aleks/placement/. Graduation Restriction: Only one of MATH 1510, MATH 1600, or the sequence MATH 1650-MATH 1660 may be counted towards graduation. (Typically Offered: Fall, Spring)
+
+MATH 1630X: Elements of Calculus
+
+Credits: 4. Contact Hours: Lecture 4.
+
+Preparation for MATH 1600 and MATH 1650. Functions, graphing, basic trigonometry, logarithms, exponentials, limits, continuity, basics of differentiation. Graduation Restriction: Only one of MATH 1630 and MATH 1650 may count toward graduation. Also, only one of MATH 1430 and MATH 1630 may count toward graduation. (Typically Offered: Fall)
+
+MATH 1640X: Advanced Elements of Calculus
+
+Credits: 3. Contact Hours: Lecture 4.
+
+Prereq: Credit or enrollment in MATH 1630X
+Advanced differentiation, applications of the derivative, introduction to integral calculus.Graduation Restriction: Only one of MATH 1510 or MATH 1600 or MATH 1640 or MATH 1650 may be counted towards graduation. (Typically Offered: Spring)
+
+MATH 1650: Calculus I
+
+Credits: 4. Contact Hours: Lecture 3, Discussion 1.
+
+Prereq: Minimum C- in MATH 1430 or satisfactory score on placement exam
+Differential calculus, applications of the derivative, introduction to integral calculus. Satisfactory placement scores can be found at https://math.iastate.edu/academics/undergraduate/aleks/placement/.Graduation Restriction: Only one of MATH 1510, MATH 1600, or the sequence MATH 1650-MATH 1660 may be counted towards graduation. (Typically Offered: Fall, Spring, Summer)
+
+MATH 1660: Calculus II
+
+Credits: 4. Contact Hours: Lecture 3, Discussion 1.
+
+Prereq: Minimum C- in MATH 1650 or satisfactory placement on ALEKS (80+) and Canvas Calculus II placement exam
+Integral calculus, applications of the integral, parametric curves and polar coordinates, power series and Taylor series. Satisfactory placement scores can be found at https://math.iastate.edu/academics/undergraduate/aleks/placement/. Graduation Restriction: Only one of MATH 1510, MATH 1600, or the sequence MATH 1650-MATH 1660 may be counted towards graduation. (Typically Offered: Fall, Spring, Summer)
+
+MATH 2650: Calculus III
+
+Credits: 4. Contact Hours: Lecture 3, Discussion 1.
+
+Prereq: Minimum of C- in MATH 1660 or MATH 1660H
+Geometry of space and vectors, multivariable differential calculus, multivariable integral calculus, vector calculus. (Typically Offered: Fall, Spring, Summer)
+
+MATH 2650H: Calculus III: Honors
+
+Credits: 4. Contact Hours: Lecture 4.
+
+Prereq: Permission of the instructor; and minimum of C- in MATH 1660 or MATH 1660H; Membership in the University Honors Program
+Geometry of space and vectors, multivariable differential calculus, multivariable integral calculus, vector calculus. Additional material of a theoretical, conceptual, computational, or modeling nature. Some of the work may require more ingenuity than is required in MATH 2650. Preference will be given to students in the University Honors Program. (Typically Offered: Fall, Spring)
+
+MATH 2660: Elementary Differential Equations
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Minimum of C- in MATH 1660 or MATH 1660H
+Solution methods for ordinary differential equations. First order equations, linear equations, constant coefficient equations. Eigenvalue methods for systems of first order linear equations. Introduction to stability and phase plane analysis. Graduation Restriction: Credit for either MATH 2670 or the MATH 2660, 2680 pair of courses, but not both, may be applied toward graduation. Credit for only one of the following courses may be applied toward graduation: MATH 2670, MATH 2660, MATH 2690. (Typically Offered: Fall, Spring, Summer)
+
+---------------------------------
+Mech E
+---------------------------------
+
+Courses primarily for undergraduates:
+ME 1600: Mechanical Engineering Problem Solving with Computer Applications
+
+Credits: 3.
+
+Prereq: Mechanical Engineering majors only. Credit or enrollment in MATH 1650, MATH 1660, MATH 2650, or MATH 2670
+Introduction to the field of Mechanical Engineering through problem-solving in a range of topics including statics, mechanics of materials and thermo-fluids. Techniques to professionally present and communicate solutions. Use of Python computer programming to aid problem solving, including curve fitting and graphing. Graduation Restriction: Only one of ENGR 1600, ABE 1600, AERE 1600, CE 1600, CHE 1600, CPRE 1850, EE 1850, IE 1480, ME 1600, and SE 1850 may count toward graduation. (Typically Offered: Fall, Spring)
+ME 1700: Engineering Graphics and Introductory Design
+
+Credits: 3.
+
+Prereq: Credit or concurrent enrollment in MATH 1430 or MATH 1450 or MATH 1650 (or satisfactory scores on mathematics placement assessments)
+Integration of fundamental graphics, computer modeling, and engineering design. Applications of multiview drawings and dimensioning. Techniques for visualizing, analyzing, and communicating 3-D geometries. Application of the design process including written and oral reports. Freehand and computer methods. Satisfactory placement scores can be found at: https://math.iastate.edu/academics/undergraduate/aleks/placement/. (Typically Offered: Fall, Spring)
+ME 1900: Learning Communities
+
+Credits: 1. Contact Hours: Lecture 1.
+Repeatable.
+
+Enrollment in ME learning communities. (Typically Offered: Fall, Spring)
+ME 2020: Mechanical Engineering - Professional Planning
+
+Credits: Required. Contact Hours: Lecture 1.
+
+Prereq: Sophomore Standing.
+Preparation for a career in mechanical engineering; discussion of opportunities for leadership, undergraduate research, experiential learning. Offered on a satisfactory-fail basis only. (Typically Offered: Fall, Spring)
+ME 2200: Globalization and Sustainability
+
+(Cross-listed with ANTHR 2200/ ENVS 2200/ GLOBE 2200/ SOC 2200/ MATE 2200).
+Credits: 3. Contact Hours: Lecture 3.
+
+An introduction to understanding the key global issues in sustainability. Focuses on interconnected roles of energy, materials, human resources, economics, and technology in building and maintaining sustainable systems. Applications discussed will include challenges in both the developed and developing world and will examine the role of technology in a resource-constrained world. Graduation Restriction: Cannot be used for technical elective credit in any engineering department. Meets International Perspectives Requirement. (Typically Offered: Fall, Spring)
+ME 2310: Engineering Thermodynamics I
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: CHEM 1670; MATH 1660 or MATH 1660H; PHYS 2310 or PHYS 2310H; PHYS 2310L
+Fundamental concepts based on zeroth, first and second laws of thermodynamics. Properties and processes for ideal gases and solid-liquid-vapor phases of pure substances. Applications to vapor power cycles. (Typically Offered: Fall, Spring, Summer)
+ME 2700: Introduction to Mechanical Engineering Design
+
+Credits: 3.
+
+Prereq: ME 1600 or (ABE 1600, AERE 1600, BME 1600, CE 1600, CHE 1600, CPRE 1850, EE 1850, ENGR 1600, IE 1600, or SE 1850); ME 1700 or ENGR 1700; PHYS 2310; PHYS 2310L
+Overview of mechanical engineering design with applications to thermal and mechanical systems. Introduction to current design practices used in industry. Semester-long team project focused on addressing societal needs. Past projects include designing human powered charging systems and products for developing nations. (Typically Offered: Fall, Spring)
+ME 2800: Design and Analysis of Cyber-Physical Systems
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: ENGR 1600 or equivalent; PHYS 2310
+Introduction to the basic concepts of cyber-physical systems (CPS); physical and cyber considerations and constraints for design, analysis, performance monitoring and control of human-engineered physical systems; basic concepts of sensing, information processing and feedback actuation. Substantial hands-on computer programming and project activity relevant to CPS applications. (Typically Offered: Fall)
+ME 3240: Manufacturing Engineering
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: ME 2700 OR [ABE 2180 AND PHYS 2310 AND PHYS 2310L]; EM 3240; MATE 2730; ME 3240L
+Fundamentals of manufacturing processes including forming, machining, casting and welding with emphasis on design considerations in manufacturing. Mechanical behavior of metallic materials. Modern manufacturing practices. (Typically Offered: Fall, Spring, Summer)
+ME 3240L: Manufacturing Engineering Laboratory
+
+Credits: 1. Contact Hours: Laboratory 2.
+
+Prereq: ENGL 2500; MATE 2730; ME 2700
+Laboratory exercises in metrology, mechanical testing (tensile/compression and hardness tests), computer aided design (CAD), machining operations, metal welding, metal casting, and bulk/sheet metal forming. (Typically Offered: Fall, Spring)
+ME 3250: Mechanical Component Design
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: EM 3240; ME 1700 or ENGR 1700; STAT 3050
+Philosophy of design and design methodology. Consideration of stresses and failure models useful for static and fatigue loading. Analysis, selection and synthesis of machine elements. (Typically Offered: Fall, Spring)
+ME 3320: Engineering Thermodynamics II
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: ME 2310
+Gas power cycles. Fundamentals of gas mixtures, psychrometry, and thermochemistry. Applications to one-dimensional compressible flow, refrigeration, air conditioning and combustion processes. (Typically Offered: Fall, Spring, Summer)
+ME 3350: Fluid Flow
+
+Credits: 4. Contact Hours: Lecture 3, Laboratory 2.
+
+Prereq: MATH 2650; (MATH 2660 or MATH 2670); (credit or concurrent enrollment in ME 3320); ME 3450
+Incompressible and compressible fluid flow fundamentals. Dimensional analysis and similitude. Internal and external flow applications. Lab experiments emphasizing concepts in thermodynamics and fluid flow. Written reports are required. (Typically Offered: Fall, Spring, Summer)
+ME 3450: Engineering Dynamics
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: CE 2740 AND (credit or concurrent enrollment in MATH 2660 or MATH 2670)
+Particle and rigid body kinematics, Newton's laws of motion, kinetics of plane motion, rigid body problems using work-energy, linear, and angular impulse-momentum principles, vibrations. (Typically Offered: Fall, Spring)
+ME 3700: Engineering Measurements
+
+Credits: 3. Contact Hours: Laboratory 2, Lecture 2.
+
+Prereq: EE 4420 and STAT 3050
+Fundamentals of design, selection, and operation of components of measuring systems. Measurement processes, data acquisition systems, analysis of data, and propagation of measurement uncertainty. (Typically Offered: Fall, Spring)
+ME 3730: Science and Practice of Brewing
+
+(Cross-listed with FSHN 3730).
+Credits: 3. Contact Hours: Lecture 1.5, Laboratory 4.5.
+
+Prereq: 21 years of age and one course from this list: BIOL 2110, BIOL 2120, CHEM 167, CHEM 1770, PHYS 2310, PHYS 2320
+Introduction to brewing science and technology. Understanding the role of malts, hops, water, and yeast in production of ale and lager beers. Unit operations in brewing. Health, safety, and environmental sustainability in alcohol production and consumption. Weekly laboratory in practical aspects of beer production. (Typically Offered: Fall, Spring)
+ME 4010: Human Centered Design, Pre-Departure Course.
+
+Credits: 1. Contact Hours: Lecture 1.
+
+A pre-departure course for ME 4020. Safety and health issues while on site; travel logistics; required travel documents and deadlines; cultural norms. Offered irregularly. Offered on a satisfactory-fail basis only. (Typically Offered: Spring)
+ME 4020: Field Engineering: Human Centered Design Concepts.
+
+Credits: 3.
+
+Prereq: ME 4010
+Design methodology and field engineering principles for use in engineering problem solving in developing nations; application of principals will be on site. Awareness of culture, use of local artisans, crafts people and engineers will be emphasized for the purpose of ensuring sustainable and appropriate technology. Offered irregularly. Meets International Perspectives Requirement. (Typically Offered: Summer)
+ME 4100: Mechanical Engineering Applications of Mechatronics
+
+Credits: 3. Contact Hours: Lecture 2, Laboratory 2.
+
+Prereq: EE 4420, EE 4480 and Credit or concurrent enrollment in ME 4210
+Fundamentals of sensor characterization, signal conditioning and motion control, coupled with concepts of embedded computer control. Digital and analog components used for interfacing with computer controlled systems. Mechanical system analysis combined with various control approaches. Focus on automation of hydraulic actuation processes. Laboratory experiences provide hands-on development of mechanical systems. Offered irregularly. (Typically Offered: Spring)
+ME 4110: Automatic Controls
+
+Credits: 3. Contact Hours: Lecture 2, Laboratory 2.
+
+Prereq: ME 3700 or (credit or concurrent enrollment in ME 4210)
+Methods and principles of automatic control. Pneumatic, hydraulic, and electrical systems. Representative applications of automatic control systems. Mathematical analysis of control systems. (Typically Offered: Fall)
+ME 4120: Ethical Responsibilities of a Practicing Engineer
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Credit or enrollment in ME 3250
+The study of ethics in engineering design and the engineering profession. A comprehensive look at when ethical decisions must be made and an approach to make them. The approach takes into account moral, legal, technical, experiential, and standards to aid in ethical decision making. Each area will be studied through lectures, debates, guest speakers, class discussion, and case studies. (Typically Offered: Fall)
+ME 4130: Fluid Power Engineering
+
+(Cross-listed with ABE 4130).
+Credits: 3. Contact Hours: Lecture 2, Laboratory 2.
+
+Prereq: ABE 2160 or ME 2700 and Credit or concurrent enrollment in EM 3780 or ME 3350
+Fundamental fluid power principles, symbols and schematics. Hydraulic fluid properties. Function and performance of components such as connections and fittings, filtration, pumps, valves, actuators, hydrostatic transmissions. Hydraulic system dynamics. Modeling and simulation of circuits. Analysis and design of hydraulic systems. Hydrostatic transmission design. Hands-on construction of circuits, measurement of system variables, and electrohydraulic control. (Typically Offered: Fall)
+ME 4150: Mechanical Systems Design
+
+Credits: 3. Contact Hours: Laboratory 6.
+
+Prereq: ME 3240, ME 3250
+Mechanical Engineering Capstone Design course. Team approach to solving design problems involving mechanical systems. Teams will use current design practices they will encounter in industry. Document decisions concerning form and function, material specification, manufacturing methods, safety, cost, and conformance with codes and standards. Solution description includes oral and written reports. Projects often worked with industry sponsors. (Typically Offered: Fall, Spring)
+ME 4160: Mechanism Design and Analysis
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: ME 3250
+An introduction to the design and analysis of mechanisms and the use of prescribed design methodologies to identify design requirements and achieve desired motion profiles. Topics include fundamental mechanism kinematics; graphical and analytical mechanism synthesis methods; velocity and acceleration analysis; and the design of linkages, cams and gear trains. Significant amount of team-based problem solving and the development of physical and computational models to assist in the design process. (Typically Offered: Spring)
+ME 4170: Advanced Machine Design
+
+(Dual-listed with ME 5170).
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: ME 3250, MATE 2730
+Stress life, strain life, and fracture mechanics approaches to fatigue life and design with metals, polymers and ceramics. Introduction to material selection in design of machine components. Thermal and structural considerations in design of machine components and hybrid materials. Course project and relevant literature review required for graduate credit. (Typically Offered: Fall)
+ME 4180: Mechanical Considerations in Robotics
+
+(Dual-listed with ME 5180).
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Credit or enrollment in ME 4210
+Three dimensional kinematics, dynamics, and control of robot manipulators, hardware elements and sensors. Laboratory experiments using industrial robots. (Typically Offered: Spring)
+ME 4190: Computer-Aided Design
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: ME 3250
+Theory and applications of computer- aided design. Computer graphics programming, solid modeling, assembly modeling, and finite element modeling. Mechanical simulation, process engineering, rapid prototyping and manufacturing integration. (Typically Offered: Fall, Spring)
+ME 4210: System Dynamics and Control
+
+Credits: 4. Contact Hours: Lecture 3, Laboratory 2.
+
+Prereq: EE 4420, EE 4480, ME 3450, and MATH 2670
+Modeling and simulation of mechanical, electrical, fluid, and/or thermal systems. Development of equations of motion and dynamic response characteristics in time and frequency domains. Fundamentals of classical control applications, including mathematical analysis and design for closed loop control systems. Introduction to computer interfacing for simulation, data acquisition, and control. Laboratory exercises for hands-on system investigation and control implementation. (Typically Offered: Fall, Spring, Summer)
+ME 4250: Optimization Methods for Complex Designs
+
+(Dual-listed with ME 5250/ HCI 5250). (Cross-listed with HCI 4250).
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: MATH 2650; ME 1600
+Optimization involves finding the 'best' according to specified criteria. Review of a range of optimization methods from traditional nonlinear to modern evolutionary methods such as Genetic algorithms. Examination of how these methods can be used to solve a wide variety of design problems across disciplines, including mechanical systems design, biomedical device design, biomedical imaging, and interaction with digital medical data. Students will gain knowledge of numerical optimization algorithms and sufficient understanding of the strengths and weaknesses of these algorithms to apply them appropriately in engineering design. Experience includes code writing and off-the-shelf routines. Numerous case-studies of real-world situations in which problems were modeled and solved using advanced optimization techniques. (Typically Offered: Fall)
+ME 4260X: Mechanical Vibration
+
+(Dual-listed with ME 5260X).
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: EM 3240 and ME 3450 and (MATH 2660 or MATH 2670)
+Elementary vibration analysis; single and multiple degree of freedom systems, energy methods; response to common transient, harmonic and random excitation sources; numerical methods of solution; eigenvalues and modal analysis; introduction to testing methods, data sampling and signal processing; vibration isolation, absorption and coupling minimization.
+ME 4270: Vehicle Dynamics and Suspension Design
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: ME 3450
+Analysis and evaluation of the performance of cars, trucks and other surface vehicles. Computer simulation of ride, braking, and directional response. Considerations in the design and fabrication of suspension systems. (Typically Offered: Spring)
+ME 4330: Alternative Energy
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: CHEM 1670; PHYS 2320 or PHYS 2320H; PHYS 2320L
+Basic principles, performance, and cost analysis of alternative energy systems including biofuels, bioenergy, wind, solar, fuel cells, storage and other alternative energy systems. Performance analysis and operating principles of systems and components, and economic analysis for system design and operation will be taught. Emphasis is on alternative energy technologies needed to meet our future energy needs at various scales ranging from household to city to national levels. (Typically Offered: Fall)
+ME 4360: Heat Transfer
+
+Credits: 4. Contact Hours: Lecture 3, Laboratory 2.
+
+Prereq: ME 3350
+Heat transfer by conduction, convection, and radiation. Similarity concepts in heat, mass, and momentum transfer. Methods for determination of heat transfer coefficients. Combined modes of heat transfer. Heat exchangers. Lab experiments emphasizing concepts in thermodynamics and heat transfer. Written reports are required. (Typically Offered: Fall, Spring, Summer)
+ME 4370: Introduction to Combustion Engineering
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: ME 3320
+Introduction to the fundamentals of combustion and the analysis of combustion systems for gaseous, liquid, and solid fuels-including biomass fuels. Combustion fundamentals are applied to the analysis of engines; turbines, biomass cookstoves; suspension, fixed-bed, and fluidized-bed furnaces; and other combustion devices. (Typically Offered: Spring)
+ME 4410: Fundamentals of Heating, Ventilating, and Air Conditioning
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: ME 3320
+Space conditioning and moist air processes. Application of thermodynamics, heat transfer, and fluid flow principles to the analysis of heating, ventilating, and air conditioning components and systems. Performance and specification of components and systems. (Typically Offered: Fall)
+ME 4420: Heating and Air Conditioning Design
+
+Credits: 3.
+
+Prereq: ME 4410; credit or concurrent enrollment in ME 4360
+Design criteria and assessment of building environment and energy requirements. Design of heating, ventilating, and air conditioning systems. System control and economic analysis. Oral and written reports required. (Typically Offered: Spring)
+ME 4440: Elements and Performance of Power Plants
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: ME 3320, credit or enrollment in ME 3350
+Basic principles, thermodynamics, engineering analysis of power plant systems. Topics include existing power plant technologies, the advanced energyplex systems of the future, societal impacts of power production, and environmental and regulatory concerns. (Typically Offered: Spring)
+ME 4480: Fluid Dynamics of Turbomachinery
+
+(Cross-listed with AERE 4480).
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: AERE 3110 or ME 3350
+Applications of principles of fluid mechanics and thermodynamics in performance analysis and design of turbomachines. Conceptual and preliminary design of axial and radial flow compressors and turbines using velocity triangles and through-flow approaches. (Typically Offered: Spring)
+ME 4490: Internal Combustion Engines
+
+Credits: 3. Contact Hours: Lecture 3, Laboratory 1.
+
+Prereq: ME 3320
+Basic principles, thermodynamics, combustion, and exhaust emissions of spark-ignition and compression-ignition engines. Laboratory determination of fuel properties and engine performance. Effects of engine components and operating conditions on performance. Written reports required. (Typically Offered: Fall)
+ME 4510: Engineering Acoustics
+
+(Cross-listed with EM 4510/ EE 4510).
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: MATH 2660 or MATH 2670; PHYS 2310 and 2310L
+The basics of acoustic wave propagation in fluids with an emphasis on sound propagation in air. Topics include transmission and reflection of sound at a boundary; role of acoustic sources in directing sound fields; diffraction of sound around solid objects; reverberation of sound in a room; and the measurement of sound fields. (Typically Offered: Fall)
+ME 4560: Machine Vision
+
+(Dual-listed with ME 5560).
+Credits: 3. Contact Hours: Lecture 3.
+Repeatable.
+
+Prereq: MATH 2070 or MATH 3170 or Permission of Instructor
+Practical imaging processing techniques, geometric optics, and mathematics behind machine vision, as well as the most advanced 3D vision techniques. Experience with practical vision system development and analysis. Assignments include individual bi-weekly homework; weekly readings and lectures; and a semester-long research project on design and experiment vision systems. (Typically Offered: Fall)
+ME 4750: Modeling and Simulation
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: ME 4210, credit or enrollment in ME 4360
+Introduction to computer solution techniques required to simulate flow, thermal, and mechanical systems. Methods of solving ordinary and partial differential equations and systems of algebraic equations; interpolation, numerical integration; finite difference and finite element methods. (Typically Offered: Spring)
+ME 4840: Technology, Globalization and Culture
+
+(Dual-listed with WLC 5840/ ME 5840/ MKT 5840). (Cross-listed with WLC 4840/ MKT 4840).
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Junior or Senior Classification
+Cross-disciplinary examination of the present and future impact of globalization with a focus on preparing students for leadership roles in diverse professional, social, and cultural contexts. Facilitate an understanding of the threats and opportunities inherent in the globalization process as they are perceived by practicing professionals and articulated in debates on globalization. Use of a digital forum for presenting and analyzing globalization issues by on-campus and off-campus specialists. Meets International Perspectives Requirement. (Typically Offered: Fall)
+ME 4900H: Independent Study: Honors
+
+Credits: 1-6. Repeatable.
+
+Prereq: Department Permission for Course; Membership in the University Honors Program
+Investigation of topics holding special interest of students and faculty. Election of course and topic must be approved in advance by supervising faculty.
+ME 4900N: Independent Study: Non Technical Elective
+
+Credits: 1-6. Repeatable.
+
+Prereq: Department Permission for Course
+Investigation of topics holding special interest of students and faculty. Election of course and topic must be approved in advance by supervising faculty.
+ME 4900T: Independent Study: Technical Elective
+
+Credits: 1-6. Repeatable.
+
+Prereq: Department Permission for Course
+Investigation of topics holding special interest of students and faculty. Election of course and topic must be approved in advance by supervising faculty.
+ME 4910: Laboratory Component
+
+Credits: 1-3. Contact Hours: Laboratory 6.
+Repeatable.
+
+This course is designed specifically for transfer and study abroad students who need to make up a lab to fulfill course requirements. Offered on a satisfactory-fail basis only. (Typically Offered: Fall, Spring, Summer)
+
+Courses primarily for graduate students, open to qualified undergraduates:
+ME 5010: Fundamentals of Biorenewable Resources
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Graduate Standing or Permission of Instructor
+Introduction to the science and engineering of converting biorenewable resources into bioenergy and biobased products. Survey of biorenewable resource base and properties; description of biofuels and biobased products; production of biorenewable resources; processing technologies for fuels, chemicals, materials, and energy; environmental impacts; technoeconomic analysis of production and processing; and biofuels policy. (Typically Offered: Spring)
+ME 5020: Microfluidics and Nanofluidics: Theory, Design and Devices
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Graduate Standing or Permission of Instructor
+Analysis of transport phenome and its application to the field of microfluidics. Conservation equations of mass, momentum and energy are derived from first principles and applied to contemporary topics in microfluidics such as organs-on-a-chip, point-of-care and separation processes. The conservation equations are used to model hydrodynamics and random walk diffusion of multiphase microfluidic systems. Advanced microfluidic topics, such as interfacial transport involving capillary interactions, electrostatic forces, and chemical gradients are discussed into order to describe a variety of phenome observed in microfluidic devices. Numerical models based on finite element modeling and molecular dynamic simulation techniques are discussed as one approach to designing microfluidic devices such as pumps, micromixers, actuators, and filters. Offered even-numbered years. (Typically Offered: Spring)
+ME 5100: Economics and Policy of Engineered Energy Systems
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Graduate Standing or Permission of Instructor
+Economics and policy for U.S. energy systems, with an emphasis on connections to engineering. Topics include: economic analysis of conventional energy commodity markets and technologies, deregulated electricity markets, and emerging energy technologies; demand forecasting; economic and environmental policy in energy; integrated assessment; and semester-specific contemporary issues. Graduation Restriction: Economics majors may not apply this course towards graduation. Offered even-numbered years. (Typically Offered: Fall)
+ME 5110: Advanced Control Design
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Graduate Standing or Permission of Instructor
+Application of control design methods using continuous, discrete, and frequency-based models. Approaches include classical, pole assignment, model reference, internal model, and adaptive control methods. Mechanical design projects. Offered odd-numbered years. (Typically Offered: Fall)
+ME 5170: Advanced Machine Design
+
+(Dual-listed with ME 4170).
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Junior, Senior, or Graduate Standing
+Stress life, strain life, and fracture mechanics approaches to fatigue life and design with metals, polymers and ceramics. Introduction to material selection in design of machine components. Thermal and structural considerations in design of machine components and hybrid materials. Course project and relevant literature review required for graduate credit. (Typically Offered: Fall)
+ME 5180: Mechanical Considerations in Robotics
+
+(Dual-listed with ME 4180).
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Junior, Senior, or Graduate Standing
+Three dimensional kinematics, dynamics, and control of robot manipulators, hardware elements and sensors. Laboratory experiments using industrial robots. (Typically Offered: Spring)
+ME 5200: Materials and Processing Considerations in Additive Manufacturing
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Junior, Senior, or Graduate Standing
+Additive manufacturing (AM) or 3D printing is a technique to fabricate three dimensional objects with select shape or design from computer aided design files. This course will focus on AM techniques to fabricate metallic parts using various AM processes-in particular, material extrusion, binder jetting, sheet lamination, vat photopolymerization, material jetting, directed energy deposition (DED) and powder bed fusion (PBF). The course will critically assess several applications of metal AM with relevant advantages and disadvantages. Specific additional topics will include feedstock materials, heat transfer and solidification, defect formation mechanisms, microstructure evolution, process-microstructure-property relationships, post-processing strategies, recent advances in metal AM and the future of this technology. (Typically Offered: Fall)
+ME 5210: Mechanical Behavior and Manufacturing of Polymers and Composites
+
+(Cross-listed with MSE 5210).
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Junior, Senior, or Graduate Standing
+Effect of chemical structure and morphology on properties. Linear viscoelasticity, damping and stress relaxation phenomena. Structure and mechanics of filler and fiber reinforced composites. Mechanical properties and failure mechanisms. Material selection and designing with polymers. Processing of polymer and composite parts. (Typically Offered: Spring)
+ME 5250: Optimization Methods for Complex Designs
+
+(Dual-listed with ME 4250). (Cross-listed with HCI 5250).
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Junior, Senior, or Graduate Standing
+Optimization involves finding the 'best' according to specified criteria. Review of a range of optimization methods from traditional nonlinear to modern evolutionary methods such as Genetic algorithms. Examination of how these methods can be used to solve a wide variety of design problems across disciplines, including mechanical systems design, biomedical device design, biomedical imaging, and interaction with digital medical data. Students will gain knowledge of numerical optimization algorithms and sufficient understanding of the strengths and weaknesses of these algorithms to apply them appropriately in engineering design. Experience includes code writing and off-the-shelf routines. Numerous case-studies of real-world situations in which problems were modeled and solved using advanced optimization techniques. (Typically Offered: Fall)
+ME 5260X: Mechanical Vibration
+
+(Dual-listed with ME 4260X).
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Graduate Standing or [EM 3240 and ME 3450 and (MATH 2660 or MATH 2670)]
+Elementary vibration analysis; single and multiple degree of freedom systems, energy methods; response to common transient, harmonic and random excitation sources; numerical methods of solution; eigenvalues and modal analysis; introduction to testing methods, data sampling and signal processing; vibration isolation, absorption and coupling minimization.
+ME 5270: Mechanics of Machining and Finishing Processes
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: ME 3240 or graduate standing
+Mechanics of material removal for ductile materials. Shear zone theory. Oblique cutting. Heat transfer in machining. Milling and grinding. Mechanics of material removal for brittle materials. Optimal selection and design of cutting parameters. Control of machining processes. Principles of precision finishing. Design considerations for machining and finishing processes. Offered Fall even-numbered years. (Typically Offered: Fall)
+ME 5280: Micro/Nanomanufacturing
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Junior, Senior, or Graduate Standing
+Concepts and applications of micro/nanotechnology appropriate to the manufacturing field. An overview of micro/nano-fabrication techniques including mechanical, EDM, laser and lithography. MEMS device fabrication. Scaling laws. Top down and bottom up approaches of nanomanufacturing. Experimental or theoretical project leading to potential submission of a manuscript for journal or conference. Offered odd-numbered years. (Typically Offered: Fall)
+ME 5300: Advanced Thermodynamics
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Junior, Senior, or Graduate Standing
+Fundamentals of thermodynamics from the classical viewpoint with emphasis on the use of the first and second laws for analysis of thermal systems. Generalized thermodynamic relationships. Computer applications of thermodynamic properties and system analysis. Selected topics. (Typically Offered: Fall)
+ME 5310: Advanced Energy Systems and Analysis
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Junior, Senior, or Graduate Standing
+Introduction to energy systems including economic and thermodynamic principles. Various production systems will be analyzed. Application to transportation and building systems will be emphasized. Sustainability, climate change and other current energy system topics. (Typically Offered: Spring)
+ME 5320: Compressible Fluid Flow
+
+(Cross-listed with AERE 5320).
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Graduate Standing or Permission of Instructor
+Thermodynamics of compressible flow. Viscous and inviscid compressible flow equations. One dimensional steady flow; isentropic flow, shocks, expansions. Multidimensional compressible flow aspects. Linear and nonlinear wave analysis and method of characteristics. Subsonic, transonic, supersonic and hypersonic flows. (Typically Offered: Spring)
+ME 5340: Energetic Materials Combustion and Systems
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Graduate Standing or Permission of Instructor
+Introduction to energetic materials (classes of energetics, their use, safety, analysis of multiphase deflagration/detonation reaction wave structures), their application (e.g. pyrotechnics, chemical propulsion systems, explosives), system performance analysis, common measurement techniques, and societal/environmental implications. Offered even-numbered years. (Typically Offered: Spring)
+ME 5350: Thermochemical Processing of Biomass
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Junior, Senior, or Graduate Standing
+Thermochemistry and transport theory applied to combustion. Gas phase equilibrium. Energy balances. Reaction kinetics. Flame temperatures, speed, ignition, and extinction. Premixed and diffusion flames. Combustion aerodynamics. Mechanisms of air pollution. Offered odd-numbered years. (Typically Offered: Fall)
+ME 5360: Advanced Heat Transfer
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Junior, Senior, or Graduate Standing
+Advanced treatment of heat transmission by conduction, convection, and radiation. (Typically Offered: Spring)
+ME 5380: Advanced Fluid Flow
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: ME 4360 or graduate standing
+Detailed analysis of incompressible/compressible, viscous/inviscid, laminar/turbulent, and developing fluid flows on a particle/point control volume basis. (Typically Offered: Fall)
+ME 5400X: Internet-Based Methods, Extended Reality, and Machine Learning for use in Engineering Design and Data Analysis
+
+(Cross-listed with HCI 5400X).
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Completion of ME Foundations or Graduate Standing
+Extensive overview of developing and deploying internet-based computational resources for engineering applications. Relational databases, server and client-side web programming and their use with traditional engineering software (i.e. computer-aided design and finiteelement modeling). Extended reality (XR) technologies and machine learning / artificial intelligence for use in internet-based solutions. (Typically Offered: Fall)
+ME 5420: Advanced Combustion
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Junior, Senior, or Graduate Standing
+Thermochemistry and transport theory applied to combustion. Gas phase equilibrium. Energy balances. Reaction kinetics. Flame temperatures, speed, ignition, and extinction. Premixed and diffusion flames. Combustion aerodynamics. Mechanisms of air pollution. Offered odd-numbered years. (Typically Offered: Spring)
+ME 5430: Introduction to Random Vibrations and Nonlinear Dynamics
+
+(Cross-listed with EM 5430).
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Graduate Standing or Permission of Instructor
+Vibrations of continuous systems. Nonlinear vibration phenome, perturbation expansions; methods of multiple time scales and slowly-varying amplitude and phase. Characteristics of random vibrations; random processes, probability distributions, spectral density and its significance, the normal or Gaussian random process. Transmission of random vibration, response of simple single and two-degree-of-freedom systems to stationary random excitation. Fatigue failure due to random excitation. Offered odd-numbered years. (Typically Offered: Spring)
+ME 5450: Thermal Systems Design
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Graduate Standing or Permission of Instructor
+Integrating thermodynamics, fluid mechanics, and heat transfer to model thermal equipment and to simulate thermal systems. Second law and parametric analysis; cost estimation, life cycle analysis and optimization. Some computer programming required. Offered odd-numbered years. (Typically Offered: Spring)
+ME 5460: Computational Fluid Mechanics and Heat Transfer I
+
+(Cross-listed with AERE 5460).
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Graduate Standing or Permission of Instructor
+Basic concepts of discretization, consistency, and stability. Explicit and implicit methods for ordinary differential equations. Methods for each type of partial differential equation. Iterative solution methods; curvilinear grids. Students will program basic algorithms. (Typically Offered: Fall)
+ME 5470: Computational Fluid Mechanics and Heat Transfer II
+
+(Cross-listed with AERE 5470).
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Graduate Standing or Permission of Instructor
+Application of computational methods to current problems in fluid mechanics and heat transfer. Methods for solving the Navier-Stokes and reduced equation sets such as the Euler, boundary layer, and parabolized forms of the conservation equations. Introduction to relevant aspects of grid generation and turbulence modeling. (Typically Offered: Spring)
+ME 5480: Fundamentals of Laser and Optical Measurements in Thermofluid Systems
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Graduate Standing or Permission of Instructor
+Fundamentals of lasers and optical techniques for application in measurements of thermo-fluid systems. Rigorous diffraction theory, theory of laser operation, and applications of theory to measurements using optics and lasers will be covered. The principles of measurement using linear scattering techniques (absorption, Rayleigh and Raman scattering) as well as nonlinear techniques (CARS and multiphoton absorption) will be discussed. Offered even-numbered years. (Typically Offered: Spring)
+ME 5500: Advanced Biosensors: Fundamentals and Applications
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Junior, Senior, or Graduate Standing
+Extensive overview of biosensors including biological/biomedical microelectromechanical (Bio-MEMs) systems and bioanalytical devices with an introduction to fundamental principles, detection methods, and miniaturization techniques. Fundamental biosensor theory including biorecognition, transduction, signal acquisition, and post processing/data analysis will be discussed. Distinct sensing modalities (e.g., electrochemical, optical, thermal and mass based), biorecognition agents (e.g., enzymes, antibodies, aptamers, whole cells/tissues, genetically engineered proteins) and advanced transduction materials (e.g., carbon nanotubes, graphene, quantum/carbon dots, and polymers/hydrogels) and their use in the context of specific applications (e.g., biomedical, environmental, food safety) will be reviewed in detail. Additionally, students will design a theoretical biosensor and present their design in a written proposal and oral presentation. Offered even-numbered years. (Typically Offered: Fall)
+ME 5560: Machine Vision
+
+(Dual-listed with ME 4560).
+Credits: 3. Contact Hours: Lecture 3.
+Repeatable.
+
+Prereq: Junior, Senior, or Graduate Standing
+Practical imaging processing techniques, geometric optics, and mathematics behind machine vision, as well as the most advanced 3D vision techniques. Experience with practical vision system development and analysis. Assignments include individual bi-weekly homework; weekly readings and lectures; and a semester-long research project on design and experiment vision systems. Offered odd-numbered years. (Typically Offered: Fall)
+ME 5570: Computer Graphics and Geometric Modeling
+
+(Cross-listed with COMS 5570/ CPRE 5570).
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Graduate Standing or Permission of Instructor
+Fundamentals of computer graphics technology. Data structures. Parametric curve and surface modeling. Solid model representations. Applications in engineering design, analysis, and manufacturing. Offered odd-numbered years. (Typically Offered: Fall)
+ME 5610: Scanning Probe Microscopy
+
+Credits: 3. Contact Hours: Lecture 2, Laboratory 2.
+
+Prereq: Graduate Standing or Permission of Instructor
+Introduction to the scanning probe microscope (SPM, also known as atomic force microscope or AFM) and associated measurement techniques. Overview or instrumentation system, basic principles of operation, probe-sample interaction and various operational modes to obtain micro/nanoscale structure and force spectroscopy of material surfaces. Examples of SPM significance and applications in science and engineering research, nanotechnology and other industries. Laboratory work involving use of a scanning probe microscope system is an integral part of the course. (Typically Offered: Fall)
+ME 5630: Micro and Nanoscale Mechanics
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Junior, Senior, or Graduate Standing
+Review of Fundamentals: (Elasticity, Electromagnetism, Mechanical response), Mechanics of thermally, electrostatically and magnetically actuated microsystems, Mechanics and design of nanostructured materials, mechanics of surface stress engineering and its implications to sensors and thin film structures. Offered odd-numbered years. (Typically Offered: Spring)
+ME 5640: Fracture and Fatigue
+
+(Cross-listed with AERE 5640/ EM 5640/ MSE 5640).
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Graduate Standing or Permission of Instructor
+Materials and mechanics approach to fracture and fatigue. Fracture mechanics, brittle and ductile fracture, fracture and fatigue characteristics, fracture of thin films and layered structures. Fracture and fatigue tests, mechanics and materials designed to avoid fracture or fatigue. Offered even-numbered years. (Typically Offered: Fall)
+ME 5660: Phase Transformation in Elastic Materials
+
+(Cross-listed with EM 5660).
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Graduate Standing or Permission of Instructor
+Continuum thermodynamics and kinetics approaches to phase transformations. Phase field approach to stress- and temperature-induced martensitic transformations and twinning at the nanoscale. Nucleation and growth. Nanostructural evaluation. Analytical and numerical solutions. Surface stresses and energy. Surface-induced phase transformations. Large Strain formulation. (Typically Offered: Spring)
+ME 5700: Solid Modeling and GPU Computing
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: ME 1700 and ME 4190 or Graduate Student Status
+Theory and applications of solid modeling and introduction to parallel computing using the graphic processing unit (GPU). Topics include solid modeling fundamentals, representations of solid geometry, introduction to parallel programming using CUDA, and applications of GPU algorithms. Design and analysis software include SolidWorks and programming using either C or Python, and NVIDIA CUDA. Offered even-numbered years. (Typically Offered: Fall)
+ME 5730: Random Signal Analysis and Kalman Filtering
+
+(Cross-listed with EE 5730/ AERE 5730).
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Graduate Standing or Permission of Instructor
+Elementary notions of probability. Random processes. Autocorrelation and spectral functions. Estimation of spectrum from finite data. Response of linear systems to random inputs. Discrete and continuous Kalman filter theory and applications. Smoothing and prediction. Linearization of nonlinear dynamics. (Typically Offered: Fall)
+ME 5740: Optimal Control
+
+(Cross-listed with AERE 5740/ EE 5740).
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Graduate Standing or Permission of Instructor
+The optimal control problem. Variational approach. Pontryagin's principle, Hamilton-Jacobi equation. Dynamic programming. Time-optimal, minimum fuel, minimum energy control systems. The regulator problem. Structures and properties of optimal controls. (Typically Offered: Spring)
+ME 5750: Introduction to Robust Control
+
+(Cross-listed with AERE 5750/ EE 5750).
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Graduate Standing or Permission of Instructor
+Introduction to modern robust control. Model and signal uncertainty in control systems. Uncertainty description. Stability and performance robustness to uncertainty. Solutions to the H2, Hoo, and l1 control problems. Tools for robustness analysis and synthesis.
+ME 5760: Digital Feedback Control Systems
+
+(Cross-listed with AERE 5760/ EE 5760).
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Graduate Standing or Permission of Instructor
+Sampled data, discrete data, and the z-transform. Design of digital control systems using transform methods: root locus, frequency response and direct design methods. Design using state-space methods. Controllability, observability, pole placement, state estimators. Digital filters in control systems. Microcomputer implementation of digital filters. Finite wordlength effects. Linear quadratic optimal control in digital control systems. Simulation of digital control systems. (Typically Offered: Fall)
+ME 5770: Linear Systems
+
+(Cross-listed with AERE 5770/ EE 5770/ MATH 5770).
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Graduate Standing or Permission of Instructor
+Linear algebra review. Least square method and singular value decomposition. State space modeling of linear continuous-time systems. Solution of linear systems. Controllability and observability. Canonical description of linear equations. Stability of linear systems. State feedback and pole placements. Observer design for linear systems. (Typically Offered: Fall)
+ME 5780: Nonlinear Systems
+
+(Cross-listed with AERE 5780/ EE 5780/ MATH 5780).
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Graduate Standing or Permission of Instructor
+Linear vs nonlinear systems. Phase plane analysis. Bifurcation and center manifold theory. Lyapunov stability. Absolute stability of feedback systems. Input-output stability. Passivity theory and feedback linearization. Nonlinear control design techniques. (Typically Offered: Spring)
+ME 5800: Virtual Environments, Virtual Worlds, and Application
+
+(Cross-listed with HCI 5800).
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Graduate Standing or Permission of Instructor
+A systematic introduction to the underpinnings of Virtual Environments (VE), Virtual Worlds, advanced displays and immersive technologies; and an overview of some of the applications areas particularly virtual engineering. Offered even-numbered years. (Typically Offered: Spring)
+ME 5840: Technology, Globalization and Culture
+
+(Dual-listed with WLC 4840/ ME 4840/ MKT 4840). (Cross-listed with WLC 5840/ MKT 5840).
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Graduate classification
+Cross-disciplinary examination of the present and future impact of globalization with a focus on preparing students for leadership roles in diverse professional, social, and cultural contexts. Facilitate an understanding of the threats and opportunities inherent in the globalization process as they are perceived by practicing professionals and articulated in debates on globalization. Use of a digital forum for presenting and analyzing globalization issues by on-campus and off-campus specialists. Meets International Perspectives Requirement. (Typically Offered: Fall)
+ME 5850: Fundamentals of Predictive Plant Phenomics
+
+(Cross-listed with BCB 5850/ GDCB 5850).
+Credits: 4. Contact Hours: Lecture 3, Laboratory 3.
+
+Prereq: Graduate Standing or Permission of Instructor
+Principles of engineering, data analysis, and plant sciences and their interplay applied to predictive plant phenomics. Transport phenomena, sensor design, image analysis, graph models, network data analysis, fundamentals of genomics and phenomics. Multidisciplinary laboratory exercises. (Typically Offered: Fall)
+ME 5900Q: Special Topics: Independent Literature Investigation
+
+Credits: 1-8. Repeatable.
+
+Prereq: Department Permission for Course
+Investigation of advanced topics of special interest to graduate students in mechanical engineering.
+ME 5900T: Special Topics: Biological and Nanoscale Sciences
+
+Credits: 1-8. Repeatable.
+
+Prereq: Department Permission for Course
+ME 5900U: Special Topics: Complex Fluid Systems
+
+Credits: 1-8. Repeatable.
+
+Prereq: Department Permission for Course
+ME 5900V: Special Topics: Clean Energy Technologies
+
+Credits: 1-8. Repeatable.
+
+Prereq: Department Permission for Course
+ME 5900W: Special Topics: Design and Manufacturing Innovation
+
+Credits: 1-8. Repeatable.
+
+Prereq: Department Permission for Course
+ME 5900Z: Special Topics: Simulation and Visualization
+
+Credits: 1-8. Repeatable.
+
+Prereq: Department Permission for Course
+ME 5910: Probabilistic Engineering Analysis and Design
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Graduate Standing or Permission of Instructor
+Applications of probabilistic and statistical methods to engineering system design and post-design failure prognostics. Hands-on learning of various probabilistic and statistical design methods, such as design of experiments, surrogate modeling, uncertainty quantification, reliability-based design, and robust design. It also covers Bayesian estimation and machine learning methods for post-design failure prognostics. Offered even-numbered years. (Typically Offered: Spring)
+ME 5920: Data Analytics and Machine Learning for Cyber-Physical Systems Applications
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Junior, Senior, or Graduate Standing
+In this course, several data analytics techniques and Machine Learning algorithms will be explored with a strong focus on various applications to cyber-physical systems. The students will have hands-on experience with various analytics tools and data-driven decision-making techniques applied to a diverse set of spatial, temporal and spatiotemporal data emanating from real-life cyber-physical systems such as robots, energy & power systems, design & manufacturing systems, self-driving cars and agricultural systems. Among various machine learning techniques, special emphasis will be given on deep learning, reinforcement learning and probabilistic graphical models. A key highlight of this course is that the assignments and class projects will be designed for individual students or groups based on their specific applications or data sets of interest. (Typically Offered: Spring)
+ME 5990: Creative Component
+
+Credits: 1-30. Repeatable.
+
+Prereq: Department Permission for Course
+
+Courses for graduate students:
+ME 6000: Seminar
+
+Credits: Required. Repeatable.
+
+Seminar.
+ME 6250: Surface Modeling
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Prereq: Junior, Senior, or Graduate Standing
+Theory and implementation of contemporary parametric sculptured surface modeling technology. Non-uniform rational B-spline (NURBS) curves and surfaces. Fundamental computational algorithms. Construction techniques. Advanced modeling topics. Computer projects. Offered odd-numbered years. (Typically Offered: Fall)
+ME 6320: Multiphase Flow
+
+(Cross-listed with CHE 6320).
+Credits: 3. Contact Hours: Lecture 3.
+
+Single particle, multiparticle and two-phase fluid flow phenome (gas-solid, liquid-solid and gas-liquid mixtures); particle interactions, transport phenome, wall effects; bubbles, equations of multiphase flow. Dense phase (fluidized and packed beds) and ducted flows; momentum, heat and mass transfer. Computer solutions. Offered even-numbered years. (Typically Offered: Spring)
+ME 6370: Convection Heat Transfer
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Convection heat transfer to internal or external flows under laminar or turbulent conditions. Dimensionless parameters. Classical solutions of Newtonian viscous flows. Forced and free convection. Special topics. Offered irregularly. (Typically Offered: Fall)
+ME 6380: Radiation Heat Transfer
+
+Credits: 3. Contact Hours: Lecture 3.
+
+Techniques for analysis of radiation in enclosures. Radiative properties of surfaces. Radiative transfer in participating media. Combined modes of transfer. Approximate methods of analysis. (Typically Offered: Fall)
+ME 6470: Advanced Computational Fluid Dynamics
+
+(Cross-listed with AERE 6470).
+Credits: 3. Contact Hours: Lecture 3.
+
+An examination of current methods in computational fluid dynamics. Differencing strategies. Advanced solution algorithms for unstructured meshes. Grid generation. Construction of higher-order CFD algorithms. Parallel computing. Current applications. Use of state of the art CFD codes. (Typically Offered: Spring)
+ME 6900G: Advanced Topics: Advanced Machine Design
+
+Credits: 1-30. Repeatable.
+
+Prereq: Department Permission for Course
+Investigation of advanced topics of special interest to graduate students in mechanical engineering.
+ME 6900O: Advanced Topics: Engineering Computation
+
+Credits: 1-30. Repeatable.
+
+Prereq: Department Permission for Course
+Investigation of advanced topics of special interest to graduate students in mechanical engineering.
+ME 6900Q: Advanced Topics: Independent Literature Investigation
+
+Credits: 1-30. Repeatable.
+
+Prereq: Department Permission for Course
+Investigation of advanced topics of special interest to graduate students in mechanical engineering.
+ME 6900T: Advanced Topics: Biological and Nanoscale Sciences
+
+Credits: 1-30. Repeatable.
+
+Prereq: Department Permission for Course
+Investigation of Special Topics: Biological and Nanoscale Sciences of special interest to graduate students in mechanical engineering. (Typically Offered: Fall, Spring, Summer)
+ME 6900U: Advanced Topics: Complex Fluid Systems
+
+Credits: 1-30. Repeatable.
+
+Prereq: Department Permission for Course
+Investigation of Special Topics: Complex Fluid Systems of special interest to graduate students in mechanical engineering. (Typically Offered: Fall, Spring, Summer)
+ME 6900V: Advanced Topics: Clean Energy Technologies
+
+Credits: 1-30. Repeatable.
+
+Prereq: Department Permission for Course
+Investigation of Special Topics: Clean Energy Technologies of special interest to graduate students in mechanical engineering. (Typically Offered: Fall, Spring, Summer)
+ME 6900W: Advanced Topics: Design and Manufacturing Innovation
+
+Credits: 1-30. Repeatable.
+
+Prereq: Department Permission for Course
+Investigation of Design & Manufacturing Innovation of special interest to graduate students in mechanical engineering.
+ME 6900Z: Advanced Topics: Simulation and Visualization
+
+Credits: 1-30. Repeatable.
+
+Prereq: Department Permission for Course
+Investigation of Special Topics: Simulation and Visualization of special interest to graduate students in mechanical engineering. (Typically Offered: Fall, Spring, Summer)
+ME 6930: Entrepreneurship for Graduate Students in Science and Engineering
+
+(Cross-listed with AGRON 6930/ BCB 6930/ ENGR 6930/ GENET 6930/ EE 6930).
+Credits: 1. Contact Hours: Lecture 3.
+Repeatable, maximum of 2 credits.
+
+Understanding key topics of starting a technology based company, from development of technology-led idea to early-stage entrepreneurial business. Concepts discussed include: entrepreneurship basics, starting a business, funding your business, protecting your technology/business IP. Subject matter experts and successful, technology-based entrepreneurs will provide real world examples from their experience with entrepreneurship. Learn about the world class entrepreneurship ecosystem at ISU and Central Iowa. Offered on a satisfactory-fail basis only. (Typically Offered: Fall, Spring)
+ME 6970: Engineering Internship
+
+Credits: Required. Repeatable.
+
+Prereq: Department Permission for Course
+One semester and one summer maximum per academic year professional work period. Offered on a satisfactory-fail basis only.
+ME 6990: Research
+
+Credits: 1-30. Repeatable.
+
+Prereq: Department Permission for Course
+Offered on a satisfactory-fail basis only.
